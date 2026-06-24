@@ -1,7 +1,11 @@
-1.Write an article
-2.code
-3.study books
-4.Attend classes on time
-5.visit aunt
+1.Write an article.
+2.code.
+3.study books.
+4.Attend classes on time.
+5.visit aunt.
 6.Apply for remote jobs.
-7.Practise code
+7.Practise code.
+8.complete intership task
+9.Practise chess openings
+10.Solve chess puzzles.
+11.check the exam schedule.
